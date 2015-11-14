@@ -1,0 +1,79 @@
+Project: newmath
+It contains the functions that are in Math.h with some additional functions.
+Let see the usage of each function:
+
+Functions:	Usage:
+
+sqrt:
+	This function returns the sqaure root of a number.
+fmod:
+	This function retruns the remainder of a division.
+fabs:
+	This function returns the absolute value of a floating point number.
+ceilx:
+	This function returns the ceil
+floorx:
+	
+exponential:
+	This function returns e raised to the given power.
+hypot:
+	This function returns square root of the sum of the squares of two given sides.
+cbrtx:
+	This function returns cubic root.
+Pow:
+	This function returns number raised to the given power.
+trunc:
+	This function returns the nearest integer not greater in magnitude than the given value.
+round:
+	This function returns the nearest integer, rounding away from zero in halfway cases.
+fmax:
+	This function returns the maximum number between two numbers.
+fmin:
+	This function returns the minimum number between two numbers.
+fdim:
+	This function returns positive difference of two floating point values.
+ldexp:
+	This function multiplies a number by 2 raised to a power.
+exp2:
+	This function returns 2 raised to the given power.
+abs:
+	This function returns absolute value of a integer number.
+roundf:
+	This function returns the nearest integer, rounding away from zero in halfway cases of a floating point number.
+lround:
+	This function returns the nearest integer, rounding away from zero in halfway cases.
+fact:
+	This function returns the factorial of number.
+tgamma:
+	This function computes a gamma function of a positive integer number.
+square:
+	This function returns the square of a number.
+cube:
+	This function returns the cube of a number.
+division:
+	This function returns the structure of quotient and remainder after division.
+create:
+	This function creates the polynomial structure.
+show:
+	This function displays the polynomial expression.
+add_poly:
+	This function adds two polynomials.
+sub_poly:
+	This function do subtraction of two polynomials.
+dec_bin:
+	This function converts decimal number into binary number.
+bin_dec:
+	This function converts binary number into decimal number.
+decimal_octal:
+	This function converts decimal number into octal number.
+octal_deciaml:
+	This function converts octal number into decimal number.
+binary_octal:
+	This function converts binary number into octal number.
+octal_binary:
+	This function converts octal number into binary number.
+binary_hex:
+	This function converts binary number into hexadecimal number.
+hex_binary:
+	This function converts hexadecimal number into binary number.
+
